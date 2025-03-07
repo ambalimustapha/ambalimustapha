@@ -9,7 +9,6 @@ Welcome to my GitHub! I'm a passionate mobile app developer specializing in **Fl
 
 ### 📫 Connect with Me:
 - GitHub: [ambalimustapha](https://github.com/ambalimustapha)
-- LinkedIn: [Your LinkedIn (if available)]
-- Twitter: [Your Twitter (if available)]
+
 
 ⚡ Fun fact: I’m currently working on **CineVerse AI**, an AI-powered movie app! 🎬🤖
