@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "631344701227",
+    "project_id": "plyx-3cdf7",
+    "storage_bucket": "plyx-3cdf7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631344701227:android:757a9677ca098994fe2f6e",
+        "android_client_info": {
+          "package_name": "com.example.plyx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC33rnogMPDpGpvKAyHbOAqShfZXoQl4V0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

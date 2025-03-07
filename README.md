@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**ambalimustapha/ambalimustapha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate mobile app developer specializing in **Flutter**. I love building intuitive and high-performance applications that solve real-world problems.
 
-Here are some ideas to get you started:
+### 🚀 What I Do:
+- 📱 Flutter development (UI/UX & functionality)
+- 🔍 Exploring backend technologies to become a full-stack mobile developer
+- 💡 Passionate about AI integration in mobile apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with Me:
+- GitHub: [ambalimustapha](https://github.com/ambalimustapha)
+- LinkedIn: [Your LinkedIn (if available)]
+- Twitter: [Your Twitter (if available)]
+
+⚡ Fun fact: I’m currently working on **CineVerse AI**, an AI-powered movie app! 🎬🤖
